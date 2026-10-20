@@ -93,7 +93,7 @@ A predictive analytics project exploring data-driven approaches to loan approval
 
 **Email:** [noorachasmichass@gmail.com](mailto:noorachasmichass@gmail.com)  
 **GitHub:** [github.com/noorachasmi](https://github.com/noorachasmi)  
-**LinkedIn:** Add your profile URL when available  
+**LinkedIn:** https://www.linkedin.com/in/noor-a-chasmi-984729362 
 **Portfolio:** Add your portfolio URL when available
 
 ---
